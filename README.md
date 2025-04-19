@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Suman</h1>
-<h3 align="center">🚀 Passionate Student Developer | AI Enthusiast | Research Aficionado</h3>
+<h3 align="center">🚀 Passionate Student Developer | AI Enthusiast | Looking for Internships</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavsuman&label=Profile%20views&color=0e75b6&style=flat" alt="arnavsuman" /> </p>
 
