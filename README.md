@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **SpringBoot, FullStack Web Development**
 
 - 👯 I’m looking to collaborate on **AI, Software Development**
 
